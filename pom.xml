@@ -201,4 +201,9 @@
     <developerConnection>https://github.com/hypoport/hypoport-ssl.git</developerConnection>
     <url>https://github.com/hypoport/hypoport-ssl</url>
   </scm>
+
+  <issueManagement>
+    <system>github</system>
+    <url>https://github.com/hypoport/hypoport-ssl/issues</url>
+  </issueManagement>
 </project>
